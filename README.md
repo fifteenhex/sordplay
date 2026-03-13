@@ -13,10 +13,10 @@
 |   |             |                |             |             |             |           |   |   |   |    |    | l |
 |   |             |                |             |             |             |           |   |   |   |    |    | k |
 |   |             |                |             |             |             |           |   |   |   |    |    | j |
-|   |             |                |             |             |             |           |   |   |   |    |    | h |
+| h | SN74LS259N  | MC6840P        |             |             |             |           |   |   |   |    |    | h |
 | g | SN74LS123N  |                |             |             |             |           |   |   |   |    |    | g |
-| f | SN75452BP   |                |             | MB8416A-15L | SN74LS646NT | SN74LS08N |   |   |   |    |    | f |
-| e | 16mhz xtal  |                |             | MB8416A-15L | SN74LS646NT |           |   |   |   |    |    | e |
+| f | SN75452BP   | ROM            |             | MB8416A-15L | SN74LS646NT | SN74LS08N |   |   |   |    |    | f |
+| e | 16mhz xtal  | ROM            |             | MB8416A-15L | SN74LS646NT |           |   |   |   |    |    | e |
 | d | relay?      |                | SN74LS157N  | MB8416A-15L | SN74LS646NT |           |   |   |   |    |    | d |
 | c | SED9421     |                |             | SN74LS245N  | SN74LS245N  |           |   |   |   |    |    | c |
 | b | SN7416N     | ?NEC FDC?      | *           | SN7416N     | SN74LS373N  |           |   |   |   |    |    | b |
