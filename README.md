@@ -25,3 +25,5 @@
 
 
 mc68000 reset -> 4 + 11 of n2
+
+reset sw -> a1 -> 4b 
