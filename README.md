@@ -13,7 +13,7 @@ The markings on some of the chips on this board are barely visible. Some totally
 |   |             |                |             |             |             |                |          |          |   |    |    | n |
 |   |             |                |             |             |             |                |          |          |   |    |    | m |
 |   |             |                |             |             |             |                |          |          |   |    |    | l |
-| k |             | SN74LS04N      |             |             |             |                |          |          |   |    |    | k |
+| k |             | SN74LS04N      | 20mhz xtal  | SN74LS04N   |             |                |          |          |   |    |    | k |
 | j | HD74LS244P  |                |             |             |             |                |          |          |   |    |    | j |
 | h | SN74LS259N  | MC6840P        |             |             |             |                |          |          |   |    |    | h |
 | g | SN74LS123N  |                |             |             |             |                |          |          |   |    |    | g |
