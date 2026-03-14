@@ -29,3 +29,5 @@ The markings on some of the chips on this board are barely visible. Some totally
 mc68000 reset -> 4 + 11 of n2
 
 reset sw -> a1 -> 4b -> r32+r33
+
+MB83256 (019 RA), MB83256 (020 RA), MB83256 (021 RA), MB83256 (022 RA) might be the kanji roms, the 02x RA part matches the fm7 kanji roms
