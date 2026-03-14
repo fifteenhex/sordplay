@@ -14,7 +14,7 @@ The markings on some of the chips on this board are barely visible. Some totally
 |   |             |                |             |             |             |                |                         |          |                        |    |    | m |
 |   |             |                |             |             |             |                |                         |          |                        |    |    | l |
 | k |             | SN74LS04N      | 20mhz xtal  | SN74LS04N   |             |                |                         |          |                        |    |    | k |
-| j | HD74LS244P  |                |             |             |             |                |                         |          |                        |    |    | j |
+| j | HD74LS244P  |                |             |             |             |                |                         |          | 26.667mhz xtal         |    |    | j |
 | h | SN74LS259N  | MC6840P        |             |             |             |                |                         |          | SN74LS646NT            |    |    | h |
 | g | SN74LS123N  |                |             |             |             |                |                         |          | MB8416A-15L-SK (EKL 1) |    |    | g |
 | f | SN75452BP   | ROM            |             | MB8416A-15L | SN74LS646NT | SN74LS08N      | GA041 (NEC gate array?) | *        | MB8416A-15L-SK (EKR 1) |    |    | f |
