@@ -21,7 +21,7 @@ The markings on some of the chips on this board are barely visible. Some totally
 | e | 16mhz xtal  | ROM            |             | MB8416A-15L | SN74LS646NT |                |                         |          |   |    |    | e |
 | d | relay?      |                | SN74LS157N  | MB8416A-15L | SN74LS646NT |                | PL042                   | PL084    |   |    |    | d |
 | c | SED9421     |                |             | SN74LS245N  | SN74LS245N  | SN74LS86N      | 74F194PC                | 74F194PC |   |    |    | c |
-| b | SN7416N     | ?NEC FDC?      | *           | SN7416N     | SN74LS373N  | SN74LS123N     |                         | 74F194PC |   |    |    | b |
+| b | SN7416N     | ?NEC FDC?      | *           | SN7416N     | SN74LS373N  | SN74LS123N     | HD6850P (ACIA KB)       | 74F194PC |   |    |    | b |
 | a | SN74LS00N   | CK2605 - PL085 | SN7416N     | SN74LS14N   |             | resistor packs |                         |          |   |    |    | a |
 |   |  1          | 2              | 3           | 4           | 5           | 6              | 7                       | 8        | 9 | 10 | 10 |   |
 
