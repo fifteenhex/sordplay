@@ -12,11 +12,11 @@ The markings on some of the chips on this board are barely visible. Some totally
 |   |             |                |             |             |             |                |                         |          |                        |                   |    | p |
 |   |             |                |             |             |             |                |                         |          |                        |                   |    | n |
 |   |             |                |             |             |             |                |                         |          |                        |                   |    | m |
-|   |             |                |             |             |             |                |                         |          |                        |                   |    | l |
-| k |             | SN74LS04N      | 20mhz xtal  | SN74LS04N   |             |                |                         |          |                        |                   |    | k |
-| j | HD74LS244P  |                |             |             |             |                |                         |          | 26.667mhz xtal         |                   |    | j |
-| h | SN74LS259N  | MC6840P        |             |             |             |                |                         |          | SN74LS646NT            |                   |    | h |
-| g | SN74LS123N  |                |             |             |             |                |                         |          | MB8416A-15L-SK (EKL 1) |                   |    | g |
+|   |             |                |             |             |             |                |                         |          |                        | MB83256 (022 RA)  |    | l |
+| k |             | SN74LS04N      | 20mhz xtal  | SN74LS04N   |             |                |                         |          |                        | MB83256 (027 RA)  |    | k |
+| j | HD74LS244P  |                |             |             |             |                |                         |          | 26.667mhz xtal         | MB83256 (028 RA)  |  * | j |
+| h | SN74LS259N  | MC6840P        |             |             |             |                |                         |          | SN74LS646NT            | MB83256 (029 RA)  |  * | h |
+| g | SN74LS123N  |                |             |             |             |                |                         |          | MB8416A-15L-SK (EKL 1) | MB83256 (030 RA)  |  * | g |
 | f | SN75452BP   | ROM            |             | MB8416A-15L | SN74LS646NT | SN74LS08N      | GA041 (NEC gate array?) | *        | MB8416A-15L-SK (EKR 1) | D2764D (M68MX CG) |  * | f |
 | e | 16mhz xtal  | ROM            |             | MB8416A-15L | SN74LS646NT |                |                         |          | MB8416A-15L-SK (EKL 0) | SN74LS138N        |    | e |
 | d | relay?      |                | SN74LS157N  | MB8416A-15L | SN74LS646NT |                | PL042                   | PL084    | MB8416A-15L-SK (EKR 0) | SN74LS138N        |    | d |
