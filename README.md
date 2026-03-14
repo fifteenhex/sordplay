@@ -17,7 +17,7 @@ The markings on some of the chips on this board are barely visible. Some totally
 | j | HD74LS244P  |                |             |             |             |                |                         |          | 26.667mhz xtal         |                   |    | j |
 | h | SN74LS259N  | MC6840P        |             |             |             |                |                         |          | SN74LS646NT            |                   |    | h |
 | g | SN74LS123N  |                |             |             |             |                |                         |          | MB8416A-15L-SK (EKL 1) |                   |    | g |
-| f | SN75452BP   | ROM            |             | MB8416A-15L | SN74LS646NT | SN74LS08N      | GA041 (NEC gate array?) | *        | MB8416A-15L-SK (EKR 1) | D2764D (M68MX CG) |    | f |
+| f | SN75452BP   | ROM            |             | MB8416A-15L | SN74LS646NT | SN74LS08N      | GA041 (NEC gate array?) | *        | MB8416A-15L-SK (EKR 1) | D2764D (M68MX CG) |  * | f |
 | e | 16mhz xtal  | ROM            |             | MB8416A-15L | SN74LS646NT |                |                         |          | MB8416A-15L-SK (EKL 0) | SN74LS138N        |    | e |
 | d | relay?      |                | SN74LS157N  | MB8416A-15L | SN74LS646NT |                | PL042                   | PL084    | MB8416A-15L-SK (EKR 0) | SN74LS138N        |    | d |
 | c | SED9421     |                |             | SN74LS245N  | SN74LS245N  | SN74LS86N      | 74F194PC                | 74F194PC |                        | SN7416N           |    | c |
