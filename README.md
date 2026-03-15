@@ -6,14 +6,14 @@ The markings on some of the chips on this board are barely visible. Some totally
 |---|-------------|-------------------------|-------------|-------------|-------------|----------------|-------------------------|-------------|------------------------|---------------------|----------------------|---|
 | t |     *       | *                       | *           | SN74LS245N  |             |                |                         |             |                        | MB83256 (019 RA)    |          *           | v |
 | s | mc68000     | *                       | *           | SN74LS245N  |             |                |                         |             |                        | MB83256 (020 RA)    |          *           | u |
-| r | HD74LS245WP | HD74LS245WP             | SN74LS245N  | SN74LS373N  |             |                |                         |             |                        |        *            |          *           | t |
-| p | SN74LS670N  | SN74LS670N              | HD74LS245WP | HD74LS245WP |             |                |                         |             |                        | MB83256 (021 RA)    |          *           | s |
-| n |             | SN7417N                 | ?8257c-2    | *           |             |                |                         |             |                        | (serial sticker)    |          *           | r |
-|   |             |                         |             |             |             |                |                         |             |                        |        *            |          *           | p |
-|   |             |                         |             |             |             |                |                         |             |                        | MB83256 (022 RA)    |          *           | n |
-|   |             |                         |             |             |             |                |                         |             |                        |        *            |          *           | m |
-|   |             |                         |             |             |             |                |                         |             |                        | MB83256 (027 RA)    |          *           | l |
-| k |             | SN74LS04N               | 20mhz xtal  | SN74LS04N   |             |                |                         |             |                        | MB83256 (028 RA)    |          *           | k |
+| r | HD74LS245WP | HD74LS245WP             | SN74LS245N  | SN74LS373N  |             | 4864           | (4864)                  | 4864        | (4864)                 |        *            |          *           | t |
+| p | SN74LS670N  | SN74LS670N              | HD74LS245WP | HD74LS245WP |             | 4864           | (4864)                  | 4864        | (4864)                 | MB83256 (021 RA)    |          *           | s |
+| n |             | SN7417N                 | ?8257c-2    | *           |             | 4864           | (4864)                  | 4864        | (4864)                 | (serial sticker)    |          *           | r |
+|   |             |                         |             |             |             | 4864           | (4864)                  | 4864        | (4864)                 |        *            |          *           | p |
+|   |             |                         |             |             |             | 4864           | (4864)                  | 4864        | (4864)                 | MB83256 (022 RA)    |          *           | n |
+|   |             |                         |             |             |             | 4864           | (4864)                  | 4864        | (4864)                 |        *            |          *           | m |
+|   |             |                         |             |             |             | 4864           | (4864)                  | 4864        | (4864)                 | MB83256 (027 RA)    |          *           | l |
+| k |             | SN74LS04N               | 20mhz xtal  | SN74LS04N   |             | 4864           | (4864)                  | 4864        | (4864)                 | MB83256 (028 RA)    |          *           | k |
 | j | HD74LS244P  |                         |             |             |             |                |                         |             | 26.667mhz xtal         | MB83256 (029 RA)    |          *           | j |
 | h | SN74LS259N  | MC6840P                 |             |             |             |                |                         |             | SN74LS646NT            | MB83256 (030 RA)    |          *           | h |
 | g | SN74LS123N  |                         |             |             |             |                |                         |             | MB8416A-15L-SK (EKL 1) |                     |                      | g |
@@ -26,10 +26,10 @@ The markings on some of the chips on this board are barely visible. Some totally
 |   |  1          | 2                       | 3           | 4           | 5           | 6              | 7                       | 8           | 9                      | 10                  | 10                   |   |
 
 
-mc68000 reset -> 4 + 11 of n2
-
-reset sw -> a1 -> 4b -> r32+r33
-
-MB83256 roms are Kanji roms -> https://haserin09.la.coocan.jp/kanji_rom.html
-Other roms are the same as the dumps here: https://archive.org/details/sordm68mxrom, confirmed by dumping the roms from my board and comparing.
+- mc68000 reset -> 4 + 11 of n2
+- reset sw -> a1 -> 4b -> r32+r33
+-MB83256 roms are Kanji roms -> https://haserin09.la.coocan.jp/kanji_rom.html
+-Other roms are the same as the dumps here: https://archive.org/details/sordm68mxrom, confirmed by dumping the roms from my board and comparing.
+- There is space for 258KB of 4864s but only half are populated
+- The numbers on the edge connector side and the numbers on the face plate side are a bit confusing around 10
 
