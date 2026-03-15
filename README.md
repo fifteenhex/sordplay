@@ -22,7 +22,7 @@ The markings on some of the chips on this board are barely visible. Some totally
 | d | relay?      |                         | SN74LS157N  | MB8416A-15L | SN74LS646NT |                | PL042                   | PL084    | MB8416A-15L-SK (EKR 0) | SN74LS138N        |    | d |
 | c | SED9421     |                         |             | SN74LS245N  | SN74LS245N  | SN74LS86N      | 74F194PC                | 74F194PC |                        | SN7416N           |    | c |
 | b | SN7416N     | ?NEC FDC?               | *           | SN7416N     | SN74LS373N  | SN74LS123N     | HD6850P (ACIA KB)       | 74F194PC |                        |                   |    | b |
-| a | SN74LS00N   | CK2605 - PL085          | SN7416N     | SN74LS14N   | SN74LS244N  | resistor packs | <space>                 |          |                        |                   |    | a |
+| a | SN74LS00N   | CK2605 - PL085          | SN7416N     | SN74LS14N   | SN74LS244N  | resistor packs | (space)                 |          |                        |                   |    | a |
 |   |  1          | 2                       | 3           | 4           | 5           | 6              | 7                       | 8        | 9                      | 10                | 10 |   |
 
 
