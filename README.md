@@ -31,3 +31,5 @@ mc68000 reset -> 4 + 11 of n2
 reset sw -> a1 -> 4b -> r32+r33
 
 MB83256 roms are Kanji roms -> https://haserin09.la.coocan.jp/kanji_rom.html
+Other roms are the same as the dumps here: https://archive.org/details/sordm68mxrom, confirmed by dumping the roms from my board and comparing.
+
