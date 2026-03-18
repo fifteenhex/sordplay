@@ -34,3 +34,5 @@ The markings on some of the chips on this board are barely visible. Some totally
 - There is space for 258KB of 4864s but only half are populated
 - The numbers on the edge connector side and the numbers on the face plate side are a bit confusing around 10
 
+- dip 2 controls the beep on boot?
+
