@@ -29,7 +29,9 @@ The markings on some of the chips on this board are barely visible. Some totally
 - mc68000 reset -> 4 + 11 of n2
 - reset sw -> a1 -> 4b -> r32+r33
 -MB83256 roms are Kanji roms -> https://haserin09.la.coocan.jp/kanji_rom.html
-- Buzzer goes to pin 5 on f1 which is 2y, 2a goes to h2 pin 6, which is o3 of the PTM
+- Buzzer goes to pin 5 on f1 which is 2y, 2a goes to h2 pin 6, which is o3 of the PTM, 2b goes to g1 pin 5 
+
+- 
 -Other roms are the same as the dumps here: https://archive.org/details/sordm68mxrom, confirmed by dumping the roms from my board and comparing.
 - There is space for 258KB of 4864s but only half are populated
 - The numbers on the edge connector side and the numbers on the face plate side are a bit confusing around 10
