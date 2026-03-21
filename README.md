@@ -38,3 +38,5 @@ The markings on some of the chips on this board are barely visible. Some totally
 
 - dip 2 controls the beep on boot? Don't think so anymore..
 
+- Character port serial txd goes to A9 pin 3, which is a line driver, which makes sense
+
