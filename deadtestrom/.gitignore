@@ -1,0 +1,6 @@
+*.o
+romsplit
+*.elf
+*.bin
+*.even
+*.odd
